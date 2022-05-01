@@ -1,4 +1,6 @@
 # project-1
 First Github Project
-Ideas for first project:
-skills needed:
+I love 🍕, 🏀, and 🎿
+Ideas for first project: 
+
+Skills needed: Tech Lead
